@@ -18,6 +18,9 @@ author:
     - mastodon: "https://mastodon.scot/@johnmcc"
     - dev: "https://dev.to/johnmccuk"
     - github: "https://github.com/johnmccuk"
+    - award:
+        href: "https://credly.com/users/john-mccracken.dcaebfce/badges"
+        text: "Credly"
     #- link:
     #    href: "https:cloudsoft.io"
     #    text: "Cloudsoft"
