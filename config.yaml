@@ -1,6 +1,6 @@
 baseURL: "https://mccracken.cloud"
-languageCode : "en"
-defaultContentLanguage : "en"
+languageCode: "en"
+defaultContentLanguage: "en"
 
 title: "John McCracken"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -11,9 +11,9 @@ disableKinds: ["taxonomy", "term"]
 author:
   name: "John McCracken"
   headline: "Cloud Engineer"
-  image: "Memoji04.png"  # path relative to static directory
+  image: "Memoji04.png" # path relative to static directory
 
-  links :
+  links:
     - linkedin: "https://linkedin.com/in/john-mccracken-025846a5"
     - mastodon: "https://mastodon.scot/@johnmcc"
     - dev: "https://dev.to/johnmccuk"
@@ -61,6 +61,5 @@ author:
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
-  
 
 theme: lynx
