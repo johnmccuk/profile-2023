@@ -15,15 +15,15 @@ author:
 
   links:
     - linkedin: "https://linkedin.com/in/john-mccracken-025846a5"
-    - mastodon: "https://mastodon.scot/@johnmcc"
+    # - mastodon: "https://mastodon.scot/@johnmcc"
     - dev: "https://dev.to/johnmccuk"
     - github: "https://github.com/johnmccuk"
     - award:
         href: "https://credly.com/users/john-mccracken.dcaebfce/badges"
         text: "Credly"
-    #- link:
-    #    href: "https:cloudsoft.io"
-    #    text: "Cloudsoft"
+    - link:
+        href: "https:cloudsoft.io"
+        text: "Cloudsoft"
 
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
