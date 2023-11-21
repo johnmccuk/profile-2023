@@ -24,6 +24,7 @@ author:
     - link:
         href: "https://cloudsoft.io"
         text: "Cloudsoft"
+        icon: "cloud"
 
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
