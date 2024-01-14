@@ -21,9 +21,9 @@ author:
     - award:
         href: "https://credly.com/users/john-mccracken.dcaebfce/badges"
         text: "Credly"
-    - link:
-        href: "https://cloudsoft.io"
-        text: "Cloudsoft"
+   # - link:
+   #     href: "https://cloudsoft.io"
+   #     text: "Cloudsoft"
 
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
